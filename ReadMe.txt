@@ -2,7 +2,7 @@
 
 Rest end points and their description:
 
-Method: POST   path: /bank/createAcccount/
+Method: POST   path: /bank/createAccount/
 Description: creates an new account and new customer profile
 Input:
 takes below JSON props in RequestBody
